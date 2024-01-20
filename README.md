@@ -5,9 +5,9 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=express" title="Express" />
-      &nbsp;&nbsp;
+      &ensp;&ensp;
       <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
-      &nbsp;&nbsp;
+      &ensp;&ensp;
       <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
     </a>
   </p>
